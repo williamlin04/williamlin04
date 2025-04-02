@@ -1,10 +1,8 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/c2/04/78/c2047855b98271c65a5746ec5e52d8a5.gif" alt="MasterHead">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-258.gif" alt="MasterHead">
 </h1>
 <h1 align="center">Hi ✨, I'm William Lin</h1>
 <h3 align="center">Data Science Student from University of Auckland</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-258.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamlin04&label=Profile%20views&color=0e75b6&style=flat" alt="williamlin04" /> </p>
 
 - 📚 I’m currently learning: **Python, R, react**
 
