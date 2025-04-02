@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-258.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamlin04&label=Profile%20views&color=0e75b6&style=flat" alt="williamlin04" /> </p>
 
-- 📚 I’m currently learning **Python, R, react**
+- 📚 I’m currently learning: **Python, R, react**
 
-- 💮 Socials [Instagram] [https://www.instagram.com/wlhwyyds/](https://www.instagram.com/wlhwyyds/)
+- 💮 Socials: [Instagram] [https://www.instagram.com/wlhwyyds/](https://www.instagram.com/wlhwyyds/)
 
-- 💌 How to reach me **wlhwlin@gmail.com**
+- 💌 How to reach me: **wlhwlin@gmail.com**
 
-- 📸 Fun fact **Photography and Fashion Enthusiast**
+- 📸 Fun fact: **Photography and Fashion Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
