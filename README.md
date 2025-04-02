@@ -1,4 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/c2/04/78/c2047855b98271c65a5746ec5e52d8a5.gif)](https://williamlin04.io)
+<h1 align="center">
+  <img src="https://i.pinimg.com/originals/c2/04/78/c2047855b98271c65a5746ec5e52d8a5.gif" alt="MasterHead">
+</h1>
 <h1 align="center">Hi ✨, I'm William Lin</h1>
 <h3 align="center">Data Science Student from University of Auckland</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-258.gif">
